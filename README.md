@@ -1,3 +1,9 @@
-# heatmap
-Using JSON and d3.js, this heatmap has been created.
-There are three values that it will input - red for negative, green for positive and grey for no activity.
+#Tech used
+D3
+HTML
+CSS
+Javascript
+
+#Methodology
+1. I created a html index file linking the css and javascript file
+2. The CSS file contains the color guide for changing the color of the box according to the work done.
