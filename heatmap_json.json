@@ -2,35 +2,20 @@ data.json
 [
     {
         "DATEID":"20210401", //date of that day (YYYYMMDD)
-
         "DB_DATE":"2021-04-01", //date of that day (YYYY-MM-DD)
-
         "DAY":"1", // day of the month, from 1 to 31
-
         "DAY_NAME_SHORT":"Thu", //Name of the day
-
         "WEEKDAYNO":"4", // day number in that week(0 for Sunday 6 for Saturday)
-        
         "WEEKNO":"13", //week no of the year (1 to 54 or 0 to 53)
-
         "WEEK_OF_MONTH":"0", //week no of the month(0 to 6)
-        
-        "MONTHID":"202104", // month id (YYYYMM)
-        
-        "M_NAME":"Apr-21", // Month Name, format can be your choice
-        
-        "YEARID":"2021", //year id
-        
-        "ORDER_ID":"1", //one KPI you can have any other KPI
-        
+        "MONTHID":"202304", // month id (YYYYMM)
+        "M_NAME":"Apr-23", // Month Name, format can be your choice
+        "YEARID":"2023", //year id
+        "ORDER_ID":"1", //one KPI you can have any other KPI 
         "TOTAL_AMOUNT":"504", //another optional KPI
-        
         "RECIEVED_AMOUNT":"500", //optional KPI
-        
         "DISCOUNT":"4", //optional
-        
         "ORDER_DATE":"01-04-2021", //KPI date
-        
         "BAL_FLAG":"1" // this flag will decide cell color
     }
 ]
